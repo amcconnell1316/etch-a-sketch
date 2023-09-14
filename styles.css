@@ -12,11 +12,13 @@
 
 .row {
     flex-grow: 1;
-
-    display:flex;
-    
+    display:flex; 
 }
 
 .column {
     flex-grow: 1;
+}
+
+.hovered {
+    background-color: black;
 }
